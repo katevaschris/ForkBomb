@@ -1,5 +1,5 @@
 /*
-Authors: Katevas Chris
+Author: Katevas Chris
 
 github: https://github.com/katevaschris
 	
