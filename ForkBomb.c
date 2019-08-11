@@ -12,7 +12,8 @@ Function:
 Copyright (C)
 Protected by GNU GPLv3
 	
-	~ 
+~ 
+	
 	Greetings Mate!
 	¯\_(ツ)_/¯ 
 	
@@ -23,8 +24,8 @@ Protected by GNU GPLv3
 	happens, to you as a result of your actions. However this code is protected by GNU GPLv3,
 	this means you must attribute me if you use it. Have fun and...
 	Cheers :D
-	~
-
+	
+~
 */
 #include <unistd.h>
 #include <stdlib.h>
